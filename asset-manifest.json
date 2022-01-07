@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/invitation/static/css/main.0f9e695a.css",
+    "main.js": "/invitation/static/js/main.808e6b25.js",
+    "static/media/a.jpg": "/invitation/static/media/a.48720de0c642f18cd976.jpg",
+    "static/media/center.svg": "/invitation/static/media/center.b773beea491ff8a90637.svg",
+    "static/media/marry.mp3": "/invitation/static/media/marry.0bc3eff0ca93727f35ac.mp3",
+    "static/media/b.jpg": "/invitation/static/media/b.534abbf1c3b828336064.jpg",
+    "static/media/e.jpg": "/invitation/static/media/e.17420430b5904a2d212b.jpg",
+    "static/media/c.jpg": "/invitation/static/media/c.eb6ca96feabe8a8e6df6.jpg",
+    "static/media/d.jpg": "/invitation/static/media/d.04322b44bdd10e84cdca.jpg",
+    "static/media/l.jpg": "/invitation/static/media/l.75d90672f3c9fff96353.jpg",
+    "static/media/right.svg": "/invitation/static/media/right.86a3f919f1d7c11647020ecdac1f26c5.svg",
+    "static/media/deaa.jpg": "/invitation/static/media/deaa.615cd99e5168b249250f.jpg",
+    "static/media/h.jpg": "/invitation/static/media/h.cb70bfe597c694f13709.jpg",
+    "static/media/f.jpg": "/invitation/static/media/f.b67b6bbda097b16142e6.jpg",
+    "static/media/i.jpg": "/invitation/static/media/i.7e7bd1b09f78653334c6.jpg",
+    "static/media/g.jpg": "/invitation/static/media/g.075660506fb9ee09080b.jpg",
+    "static/media/day.jpg": "/invitation/static/media/day.2d05a3d05f3a2d59ce64.jpg",
+    "static/media/cover.svg": "/invitation/static/media/cover.33d75c776433260db513.svg",
+    "static/media/gif.gif": "/invitation/static/media/gif.7e04ce0225a15c6c54dc.gif",
+    "static/media/mask.png": "/invitation/static/media/mask.0e834d203796eb252fcc.png",
+    "static/media/distance.png": "/invitation/static/media/distance.8e6bbb79fb2ca7482710.png",
+    "static/media/soap.png": "/invitation/static/media/soap.751c4c1c2aafbd127826.png",
+    "static/media/hand.png": "/invitation/static/media/hand.5531512ffcbf7f655490.png",
+    "static/media/frames.svg": "/invitation/static/media/frames.3a26a6f9fd8e9370b8611d960905330f.svg",
+    "index.html": "/invitation/index.html",
+    "main.0f9e695a.css.map": "/invitation/static/css/main.0f9e695a.css.map",
+    "main.808e6b25.js.map": "/invitation/static/js/main.808e6b25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f9e695a.css",
+    "static/js/main.808e6b25.js"
+  ]
+}
